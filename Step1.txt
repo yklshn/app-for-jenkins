@@ -1,0 +1,11 @@
+<html>
+  <head>
+    <title>Jenkins JOB #1</title>
+  </head>
+  <body>
+    <h1>Jenkins JOB #1</h1>
+    <p>
+      Здесь я проверяю работу Jenkins
+    </p>
+  </body>
+</html>
